@@ -7,3 +7,4 @@ The projects are generated from text files from the [Gutenberg Project](http://w
 ## Projects
 
 * A Tale of Two Cities
+* Moby Dick

@@ -1,0 +1,1766 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="1.0b3" hexVersion="0x010000b3" fileVersion="1.2" timeStamp="2020-10-10 14:27:33">
+  <project>
+    <name>Moby Dick</name>
+    <title>Moby Dick, or The Whale</title>
+    <author>Herman Melville</author>
+    <saveCount>4</saveCount>
+    <autoCount>54</autoCount>
+    <editTime>40202</editTime>
+  </project>
+  <settings>
+    <doBackup>False</doBackup>
+    <spellCheck>False</spellCheck>
+    <spellLang>None</spellLang>
+    <autoOutline>True</autoOutline>
+    <lastEdited>d80c365090d4e</lastEdited>
+    <lastViewed>None</lastViewed>
+    <lastWordCount>212644</lastWordCount>
+    <novelWordCount>212643</novelWordCount>
+    <notesWordCount>1</notesWordCount>
+    <autoReplace/>
+    <titleFormat>
+      <title>%title%</title>
+      <chapter>Chapter %ch%: %title%</chapter>
+      <unnumbered>%title%</unnumbered>
+      <scene>* * *</scene>
+      <section></section>
+    </titleFormat>
+    <status>
+      <entry blue="100" green="100" red="100">New</entry>
+      <entry blue="0" green="50" red="200">Note</entry>
+      <entry blue="0" green="150" red="200">Draft</entry>
+      <entry blue="0" green="200" red="50">Finished</entry>
+    </status>
+    <importance>
+      <entry blue="100" green="100" red="100">New</entry>
+      <entry blue="0" green="50" red="200">Minor</entry>
+      <entry blue="0" green="150" red="200">Major</entry>
+      <entry blue="0" green="200" red="50">Main</entry>
+    </importance>
+  </settings>
+  <content count="146">
+    <item handle="69dc41b3f1029" order="0" parent="None">
+      <name>Novel</name>
+      <type>ROOT</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+    <item handle="5a50ff0327dbc" order="0" parent="69dc41b3f1029">
+      <name>Moby Dick</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>TITLE</layout>
+      <charCount>46</charCount>
+      <wordCount>8</wordCount>
+      <paraCount>1</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="8ca105b71ca8c" order="1" parent="69dc41b3f1029">
+      <name>Front Page</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>PAGE</layout>
+      <charCount>936</charCount>
+      <wordCount>151</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>482</cursorPos>
+    </item>
+    <item handle="f5529cd56b43d" order="2" parent="69dc41b3f1029">
+      <name>Chapters</name>
+      <type>FOLDER</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+    <item handle="d80c365090d4e" order="0" parent="f5529cd56b43d">
+      <name>1. Loomings</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>12168</charCount>
+      <wordCount>2218</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="4ae44b59ddb67" order="1" parent="f5529cd56b43d">
+      <name>2. The Carpet-Bag</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7904</charCount>
+      <wordCount>1436</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>18</cursorPos>
+    </item>
+    <item handle="e12ba26289f44" order="2" parent="f5529cd56b43d">
+      <name>3. The Spouter-Inn</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>31851</charCount>
+      <wordCount>5849</wordCount>
+      <paraCount>74</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="e8c727f2b064c" order="3" parent="f5529cd56b43d">
+      <name>4. The Counterpane</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9101</charCount>
+      <wordCount>1661</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="431764f2bad44" order="4" parent="f5529cd56b43d">
+      <name>5. Breakfast</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4168</charCount>
+      <wordCount>742</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="0f749b27fc09c" order="5" parent="f5529cd56b43d">
+      <name>6. The Street</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4788</charCount>
+      <wordCount>812</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>14</cursorPos>
+    </item>
+    <item handle="b2cea1f705f75" order="6" parent="f5529cd56b43d">
+      <name>7. The Chapel</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5354</charCount>
+      <wordCount>945</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>14</cursorPos>
+    </item>
+    <item handle="09f8925a46366" order="7" parent="f5529cd56b43d">
+      <name>8. The Pulpit</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5386</charCount>
+      <wordCount>949</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>14</cursorPos>
+    </item>
+    <item handle="95663613a7cc6" order="8" parent="f5529cd56b43d">
+      <name>9. The Sermon</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>19655</charCount>
+      <wordCount>3585</wordCount>
+      <paraCount>27</paraCount>
+      <cursorPos>14</cursorPos>
+    </item>
+    <item handle="b04d012ab2405" order="9" parent="f5529cd56b43d">
+      <name>10. A Bosom Friend</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8677</charCount>
+      <wordCount>1560</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>18</cursorPos>
+    </item>
+    <item handle="56887d8d4117b" order="10" parent="f5529cd56b43d">
+      <name>11. Nightgown</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3929</charCount>
+      <wordCount>722</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="3a0e8d156fa34" order="11" parent="f5529cd56b43d">
+      <name>12. Biographical</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4861</charCount>
+      <wordCount>881</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>16</cursorPos>
+    </item>
+    <item handle="ecd395350a31c" order="12" parent="f5529cd56b43d">
+      <name>13. Wheelbarrow</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9657</charCount>
+      <wordCount>1696</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>15</cursorPos>
+    </item>
+    <item handle="4786506c1354b" order="13" parent="f5529cd56b43d">
+      <name>14. Nantucket</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4322</charCount>
+      <wordCount>755</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="b3225ccf01ec7" order="14" parent="f5529cd56b43d">
+      <name>15. Chowder</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6560</charCount>
+      <wordCount>1183</wordCount>
+      <paraCount>16</paraCount>
+      <cursorPos>11</cursorPos>
+    </item>
+    <item handle="f7cdf656c4d37" order="15" parent="f5529cd56b43d">
+      <name>16. The Ship</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>30360</charCount>
+      <wordCount>5479</wordCount>
+      <paraCount>82</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="c8f3148b447ba" order="16" parent="f5529cd56b43d">
+      <name>17. The Ramadan</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>12576</charCount>
+      <wordCount>2278</wordCount>
+      <paraCount>30</paraCount>
+      <cursorPos>15</cursorPos>
+    </item>
+    <item handle="f0cae54f97394" order="17" parent="f5529cd56b43d">
+      <name>18. His Mark</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7642</charCount>
+      <wordCount>1353</wordCount>
+      <paraCount>27</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="f6f8a7d1dae25" order="18" parent="f5529cd56b43d">
+      <name>19. The Prophet</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6495</charCount>
+      <wordCount>1209</wordCount>
+      <paraCount>35</paraCount>
+      <cursorPos>15</cursorPos>
+    </item>
+    <item handle="9c96cb812875b" order="19" parent="f5529cd56b43d">
+      <name>20. All Astir</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5135</charCount>
+      <wordCount>921</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="4c3f3d096fac1" order="20" parent="f5529cd56b43d">
+      <name>21. Going Aboard</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6070</charCount>
+      <wordCount>1071</wordCount>
+      <paraCount>38</paraCount>
+      <cursorPos>16</cursorPos>
+    </item>
+    <item handle="b15a537881d15" order="21" parent="f5529cd56b43d">
+      <name>22. Merry Christmas</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9111</charCount>
+      <wordCount>1640</wordCount>
+      <paraCount>22</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="e34ba2b509386" order="22" parent="f5529cd56b43d">
+      <name>23. The Lee Shore</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2155</charCount>
+      <wordCount>364</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>17</cursorPos>
+    </item>
+    <item handle="2f98912eaa563" order="23" parent="f5529cd56b43d">
+      <name>24. The Advocate</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9656</charCount>
+      <wordCount>1649</wordCount>
+      <paraCount>23</paraCount>
+      <cursorPos>16</cursorPos>
+    </item>
+    <item handle="7bbb7504e5786" order="24" parent="f5529cd56b43d">
+      <name>25. Postscript</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1597</charCount>
+      <wordCount>281</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>14</cursorPos>
+    </item>
+    <item handle="eea3f2f6649a7" order="25" parent="f5529cd56b43d">
+      <name>26. Knights and Squires</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7007</charCount>
+      <wordCount>1219</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>23</cursorPos>
+    </item>
+    <item handle="953ea9b1eb4b5" order="26" parent="f5529cd56b43d">
+      <name>27. Knights and Squires</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9492</charCount>
+      <wordCount>1669</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>23</cursorPos>
+    </item>
+    <item handle="da2e139490985" order="27" parent="f5529cd56b43d">
+      <name>28. Ahab</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8055</charCount>
+      <wordCount>1400</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>8</cursorPos>
+    </item>
+    <item handle="7e59b6c3a6b11" order="28" parent="f5529cd56b43d">
+      <name>29. Enter Ahab</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6536</charCount>
+      <wordCount>1197</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>29</cursorPos>
+    </item>
+    <item handle="ad881bbc485fe" order="29" parent="f5529cd56b43d">
+      <name>30. The Pipe</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1580</charCount>
+      <wordCount>291</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="6a963beeb5565" order="30" parent="f5529cd56b43d">
+      <name>31. Queen Mab</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4430</charCount>
+      <wordCount>859</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="117462760b6b3" order="31" parent="f5529cd56b43d">
+      <name>32. Cetology</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>29868</charCount>
+      <wordCount>5141</wordCount>
+      <paraCount>47</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="b8e7e445b8e4b" order="32" parent="f5529cd56b43d">
+      <name>33. The Specksnyder</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5796</charCount>
+      <wordCount>965</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="f6c4278c26ea8" order="33" parent="f5529cd56b43d">
+      <name>34. The Cabin-Table</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>12661</charCount>
+      <wordCount>2193</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="c98d0de8e5a37" order="34" parent="f5529cd56b43d">
+      <name>35. The Mast-Head</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>14712</charCount>
+      <wordCount>2538</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>17</cursorPos>
+    </item>
+    <item handle="78327a56881d4" order="35" parent="f5529cd56b43d">
+      <name>36. The Quarter-Deck</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>15764</charCount>
+      <wordCount>2798</wordCount>
+      <paraCount>51</paraCount>
+      <cursorPos>20</cursorPos>
+    </item>
+    <item handle="d52946d137152" order="36" parent="f5529cd56b43d">
+      <name>37. Sunset</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2756</charCount>
+      <wordCount>508</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>10</cursorPos>
+    </item>
+    <item handle="b872a617e17c6" order="37" parent="f5529cd56b43d">
+      <name>38. Dusk</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2074</charCount>
+      <wordCount>393</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>2086</cursorPos>
+    </item>
+    <item handle="58f031f499e81" order="38" parent="f5529cd56b43d">
+      <name>39. First Night-Watch.</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1425</charCount>
+      <wordCount>267</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>1439</cursorPos>
+    </item>
+    <item handle="b29e975837c35" order="39" parent="f5529cd56b43d">
+      <name>40. Midnight, Forecastle.</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8786</charCount>
+      <wordCount>1542</wordCount>
+      <paraCount>51</paraCount>
+      <cursorPos>8893</cursorPos>
+    </item>
+    <item handle="e0b17ab3c74f6" order="40" parent="f5529cd56b43d">
+      <name>41. Moby Dick</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>21911</charCount>
+      <wordCount>3773</wordCount>
+      <paraCount>24</paraCount>
+      <cursorPos>21964</cursorPos>
+    </item>
+    <item handle="3b2339a6166c0" order="41" parent="f5529cd56b43d">
+      <name>42. The Whiteness of the Whale.</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>21078</charCount>
+      <wordCount>3623</wordCount>
+      <paraCount>31</paraCount>
+      <cursorPos>21145</cursorPos>
+    </item>
+    <item handle="a86cea631a884" order="42" parent="f5529cd56b43d">
+      <name>43. Hark!</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1691</charCount>
+      <wordCount>303</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>1722</cursorPos>
+    </item>
+    <item handle="e83fc907381c5" order="43" parent="f5529cd56b43d">
+      <name>44. The Chart</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>11941</charCount>
+      <wordCount>2028</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>11970</cursorPos>
+    </item>
+    <item handle="eb02260f1debc" order="44" parent="f5529cd56b43d">
+      <name>45. The Affidavit</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>20079</charCount>
+      <wordCount>3549</wordCount>
+      <paraCount>25</paraCount>
+      <cursorPos>20134</cursorPos>
+    </item>
+    <item handle="34eaa2385fa92" order="45" parent="f5529cd56b43d">
+      <name>46. Surmises</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5966</charCount>
+      <wordCount>994</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>12</cursorPos>
+    </item>
+    <item handle="53f74329ef0f5" order="46" parent="f5529cd56b43d">
+      <name>47. The Mat-Maker</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5323</charCount>
+      <wordCount>922</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>17</cursorPos>
+    </item>
+    <item handle="1556d5416dbcf" order="47" parent="f5529cd56b43d">
+      <name>48. The First Lowering</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>22358</charCount>
+      <wordCount>3944</wordCount>
+      <paraCount>51</paraCount>
+      <cursorPos>22</cursorPos>
+    </item>
+    <item handle="589453cc8d6e8" order="48" parent="f5529cd56b43d">
+      <name>49. The Hyena</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4655</charCount>
+      <wordCount>833</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>13</cursorPos>
+    </item>
+    <item handle="3c050df71f88a" order="49" parent="f5529cd56b43d">
+      <name>50. Ahab’s Boat and Crew</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5715</charCount>
+      <wordCount>1007</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>34</cursorPos>
+    </item>
+    <item handle="6f9cdf55da967" order="50" parent="f5529cd56b43d">
+      <name>51. The Spirit-Spout</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8652</charCount>
+      <wordCount>1503</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>20</cursorPos>
+    </item>
+    <item handle="897575881d60c" order="51" parent="f5529cd56b43d">
+      <name>52. The Albatross</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4024</charCount>
+      <wordCount>716</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>17</cursorPos>
+    </item>
+    <item handle="bac63e59c4905" order="52" parent="f5529cd56b43d">
+      <name>53. The Gam</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9346</charCount>
+      <wordCount>1612</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>11</cursorPos>
+    </item>
+    <item handle="4c1fcd99d0891" order="53" parent="f5529cd56b43d">
+      <name>54. The Town-Ho’s Story</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>44754</charCount>
+      <wordCount>7963</wordCount>
+      <paraCount>112</paraCount>
+      <cursorPos>23</cursorPos>
+    </item>
+    <item handle="90d01ac525ff8" order="54" parent="f5529cd56b43d">
+      <name>55. Of the Monstrous Pictures of Whales</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>10896</charCount>
+      <wordCount>1884</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="0a147ef743e8c" order="55" parent="f5529cd56b43d">
+      <name>56. Of the Less Erroneous Pictures of Whales</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7553</charCount>
+      <wordCount>1304</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="475bcdc6b9805" order="56" parent="f5529cd56b43d">
+      <name>57. Of Whales in Paint</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5544</charCount>
+      <wordCount>942</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="837f11b058a8f" order="57" parent="f5529cd56b43d">
+      <name>58. Brit</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5730</charCount>
+      <wordCount>1007</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="dc2853ceade9b" order="58" parent="f5529cd56b43d">
+      <name>59. Squid</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5312</charCount>
+      <wordCount>920</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="d54c1f1e96351" order="59" parent="f5529cd56b43d">
+      <name>60. The Line</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8184</charCount>
+      <wordCount>1460</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="ff015ef25ec88" order="60" parent="f5529cd56b43d">
+      <name>61. Stubb Kills a Whale</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>11050</charCount>
+      <wordCount>1963</wordCount>
+      <paraCount>24</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="cf93342a6e8a8" order="61" parent="f5529cd56b43d">
+      <name>62. The Dart</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3126</charCount>
+      <wordCount>568</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a8a05c77d15fc" order="62" parent="f5529cd56b43d">
+      <name>63. The Crotch</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2810</charCount>
+      <wordCount>474</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c6b34bbfd05a2" order="63" parent="f5529cd56b43d">
+      <name>64. Stubb’s Supper</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>16401</charCount>
+      <wordCount>2981</wordCount>
+      <paraCount>59</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="bab71433a2635" order="64" parent="f5529cd56b43d">
+      <name>65. The Whale as a Dish</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5462</charCount>
+      <wordCount>987</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="ebec3d10c7b19" order="65" parent="f5529cd56b43d">
+      <name>66. The Shark Massacre</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3601</charCount>
+      <wordCount>628</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="7524a5905b97e" order="66" parent="f5529cd56b43d">
+      <name>67. Cutting In</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4182</charCount>
+      <wordCount>730</wordCount>
+      <paraCount>3</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="4227bfefa098c" order="67" parent="f5529cd56b43d">
+      <name>68. The Blanket</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6750</charCount>
+      <wordCount>1196</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a552df0d5e73b" order="68" parent="f5529cd56b43d">
+      <name>69. The Funeral</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2492</charCount>
+      <wordCount>432</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="81d56255033aa" order="69" parent="f5529cd56b43d">
+      <name>70. The Sphynx</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5012</charCount>
+      <wordCount>870</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="9490a47582d77" order="70" parent="f5529cd56b43d">
+      <name>71. The Jeroboam’s Story</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>13116</charCount>
+      <wordCount>2252</wordCount>
+      <paraCount>29</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c1deb9f89dd49" order="71" parent="f5529cd56b43d">
+      <name>72. The Monkey-Rope</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9257</charCount>
+      <wordCount>1637</wordCount>
+      <paraCount>20</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="1a44f11241247" order="72" parent="f5529cd56b43d">
+      <name>73. Stubb and Flask kill a Right Whale</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>11535</charCount>
+      <wordCount>2169</wordCount>
+      <paraCount>42</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="630b8e50ba9f1" order="73" parent="f5529cd56b43d">
+      <name>74. The Sperm Whale’s Head</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9054</charCount>
+      <wordCount>1635</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="ddce1ab076ee7" order="74" parent="f5529cd56b43d">
+      <name>75. The Right Whale’s Head</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6787</charCount>
+      <wordCount>1225</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="409c280ef0885" order="75" parent="f5529cd56b43d">
+      <name>76. The Battering-Ram</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5040</charCount>
+      <wordCount>869</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="cb99b524999b2" order="76" parent="f5529cd56b43d">
+      <name>77. The Great Heidelburgh Tun</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3776</charCount>
+      <wordCount>638</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="6ea5ac0378259" order="77" parent="f5529cd56b43d">
+      <name>78. Cistern and Buckets</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9254</charCount>
+      <wordCount>1646</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="1be7342f6f0d0" order="78" parent="f5529cd56b43d">
+      <name>79. The Prairie</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5359</charCount>
+      <wordCount>930</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="6b0efd11aff06" order="79" parent="f5529cd56b43d">
+      <name>80. The Nut</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5125</charCount>
+      <wordCount>901</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c63364374f15c" order="80" parent="f5529cd56b43d">
+      <name>81. The Pequod Meets The Virgin</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>24343</charCount>
+      <wordCount>4324</wordCount>
+      <paraCount>48</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="f02d835972bcd" order="81" parent="f5529cd56b43d">
+      <name>82. The Honor and Glory of Whaling</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6477</charCount>
+      <wordCount>1152</wordCount>
+      <paraCount>9</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="40b981cad6e7e" order="82" parent="f5529cd56b43d">
+      <name>83. Jonah Historically Regarded</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4514</charCount>
+      <wordCount>775</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="10a7b8fabb763" order="83" parent="f5529cd56b43d">
+      <name>84. Pitchpoling</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>4660</charCount>
+      <wordCount>804</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="f9edf7fb1f075" order="84" parent="f5529cd56b43d">
+      <name>85. The Fountain</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>11435</charCount>
+      <wordCount>2065</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="8aec2b1abf10f" order="85" parent="f5529cd56b43d">
+      <name>86. The Tail</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>10395</charCount>
+      <wordCount>1845</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="bd76505e1935c" order="86" parent="f5529cd56b43d">
+      <name>87. The Grand Armada</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>27624</charCount>
+      <wordCount>4746</wordCount>
+      <paraCount>35</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="bc46f1613f2fb" order="87" parent="f5529cd56b43d">
+      <name>88. Schools and Schoolmasters</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7083</charCount>
+      <wordCount>1187</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="0a8714d3a49a7" order="88" parent="f5529cd56b43d">
+      <name>89. Fast-Fish and Loose-Fish</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8138</charCount>
+      <wordCount>1397</wordCount>
+      <paraCount>17</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="b933c84935868" order="89" parent="f5529cd56b43d">
+      <name>90. Heads or Tails`</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5851</charCount>
+      <wordCount>1048</wordCount>
+      <paraCount>21</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="62b82a0cf7d86" order="90" parent="f5529cd56b43d">
+      <name>91. The Pequod Meets The Rose-Bud</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>14002</charCount>
+      <wordCount>2492</wordCount>
+      <paraCount>50</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="b10ab8c933a6b" order="91" parent="f5529cd56b43d">
+      <name>92. Ambergris</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5496</charCount>
+      <wordCount>967</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a4cf6a4e15b94" order="92" parent="f5529cd56b43d">
+      <name>93. The Castaway</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9224</charCount>
+      <wordCount>1600</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="fe518465e684c" order="93" parent="f5529cd56b43d">
+      <name>94. A Squeeze of the Hand</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7274</charCount>
+      <wordCount>1265</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="1505f19d0b109" order="94" parent="f5529cd56b43d">
+      <name>95. The Cassock</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2803</charCount>
+      <wordCount>497</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="91160d0935d70" order="95" parent="f5529cd56b43d">
+      <name>96. The Try-Works</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>10226</charCount>
+      <wordCount>1814</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="3b24b97a2174d" order="96" parent="f5529cd56b43d">
+      <name>97. The Lamp</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1334</charCount>
+      <wordCount>242</wordCount>
+      <paraCount>3</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="482c78d4b207e" order="97" parent="f5529cd56b43d">
+      <name>98. Stowing Down and Clearing Up</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5797</charCount>
+      <wordCount>1020</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="98553c14d8038" order="98" parent="f5529cd56b43d">
+      <name>99. The Doubloon</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>13305</charCount>
+      <wordCount>2428</wordCount>
+      <paraCount>22</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="2e0fdbc5399ab" order="99" parent="f5529cd56b43d">
+      <name>100. Leg and Arm</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>14807</charCount>
+      <wordCount>2708</wordCount>
+      <paraCount>43</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a1da825d4e29a" order="100" parent="f5529cd56b43d">
+      <name>101. The Decanter</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9887</charCount>
+      <wordCount>1763</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="e12207a1bc61d" order="101" parent="f5529cd56b43d">
+      <name>102. A Bower in the Arsacides</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9042</charCount>
+      <wordCount>1547</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="19f3383f6c235" order="102" parent="f5529cd56b43d">
+      <name>103. Measurement of The Whale’s Skeleton</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5172</charCount>
+      <wordCount>920</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="8286161764fd9" order="103" parent="f5529cd56b43d">
+      <name>104. The Fossil Whale</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8344</charCount>
+      <wordCount>1416</wordCount>
+      <paraCount>11</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="4658163bba63e" order="104" parent="f5529cd56b43d">
+      <name>105. Does the Whale’s Magnitude Diminish?</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9035</charCount>
+      <wordCount>1552</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="6179b588ea65e" order="105" parent="f5529cd56b43d">
+      <name>106. Ahab’s Leg</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5433</charCount>
+      <wordCount>923</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="0eb5ed1df3491" order="106" parent="f5529cd56b43d">
+      <name>107. The Carpenter</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6208</charCount>
+      <wordCount>1036</wordCount>
+      <paraCount>6</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="46e1fc34a9fd3" order="107" parent="f5529cd56b43d">
+      <name>108. Ahab and the Carpenter</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8505</charCount>
+      <wordCount>1570</wordCount>
+      <paraCount>37</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="90042f9956540" order="108" parent="f5529cd56b43d">
+      <name>109. Ahab and Starbuck in the Cabin</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5061</charCount>
+      <wordCount>909</wordCount>
+      <paraCount>20</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="0cc3bd180cbcf" order="109" parent="f5529cd56b43d">
+      <name>110. Queequeg in His Coffin</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>12520</charCount>
+      <wordCount>2242</wordCount>
+      <paraCount>19</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="d79f50ace2dc4" order="110" parent="f5529cd56b43d">
+      <name>111. The Pacific</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2487</charCount>
+      <wordCount>417</wordCount>
+      <paraCount>4</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="aeb48f6fc8f3c" order="111" parent="f5529cd56b43d">
+      <name>112. The Blacksmith</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5529</charCount>
+      <wordCount>926</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="e0480689cc0f6" order="112" parent="f5529cd56b43d">
+      <name>113. The Forge</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6805</charCount>
+      <wordCount>1221</wordCount>
+      <paraCount>28</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="9de823ffe42e9" order="113" parent="f5529cd56b43d">
+      <name>114. The Gilder</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3739</charCount>
+      <wordCount>638</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="43813a3946314" order="114" parent="f5529cd56b43d">
+      <name>115. The Pequod Meets The Bachelor</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5126</charCount>
+      <wordCount>875</wordCount>
+      <paraCount>14</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="f283aa5af15bd" order="115" parent="f5529cd56b43d">
+      <name>116. The Dying Whale</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2970</charCount>
+      <wordCount>515</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c3c65bd672e46" order="116" parent="f5529cd56b43d">
+      <name>117. The Whale Watch</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2502</charCount>
+      <wordCount>472</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="035d71f95471b" order="117" parent="f5529cd56b43d">
+      <name>118. The Quadrant</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>5029</charCount>
+      <wordCount>889</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="d23b52f0a667b" order="118" parent="f5529cd56b43d">
+      <name>119. The Candles</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>13933</charCount>
+      <wordCount>2524</wordCount>
+      <paraCount>40</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="805bc009ca9bd" order="119" parent="f5529cd56b43d">
+      <name>120. The Deck Towards the End of the First Night Watch</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>1010</charCount>
+      <wordCount>180</wordCount>
+      <paraCount>7</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="25f3b9bffe983" order="120" parent="f5529cd56b43d">
+      <name>121. Midnight</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3422</charCount>
+      <wordCount>620</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c770c8683001d" order="121" parent="f5529cd56b43d">
+      <name>122. Midnight Aloft</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>282</charCount>
+      <wordCount>50</wordCount>
+      <paraCount>2</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c7626a3371d86" order="122" parent="f5529cd56b43d">
+      <name>123. The Musket</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6774</charCount>
+      <wordCount>1231</wordCount>
+      <paraCount>13</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="abd6f628183b1" order="123" parent="f5529cd56b43d">
+      <name>124. The Needle</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6915</charCount>
+      <wordCount>1200</wordCount>
+      <paraCount>21</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a143fbbbca760" order="124" parent="f5529cd56b43d">
+      <name>125. The Log and Line</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>6100</charCount>
+      <wordCount>1100</wordCount>
+      <paraCount>29</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="d98c7d904ec42" order="125" parent="f5529cd56b43d">
+      <name>126. The Life-Buoy</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7471</charCount>
+      <wordCount>1366</wordCount>
+      <paraCount>19</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="c6ed6134e05a9" order="126" parent="f5529cd56b43d">
+      <name>127. The Deck</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3881</charCount>
+      <wordCount>703</wordCount>
+      <paraCount>23</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="2204aa8286c2b" order="127" parent="f5529cd56b43d">
+      <name>128. The Pequod Meets The Rachel</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>7812</charCount>
+      <wordCount>1403</wordCount>
+      <paraCount>19</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="894bb263547b4" order="128" parent="f5529cd56b43d">
+      <name>129. The Cabin</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>3012</charCount>
+      <wordCount>582</wordCount>
+      <paraCount>10</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="5ae7a478ce380" order="129" parent="f5529cd56b43d">
+      <name>130. The Hat</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>9575</charCount>
+      <wordCount>1692</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="14b427659c2a6" order="130" parent="f5529cd56b43d">
+      <name>131. The Pequod Meets The Delight</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>2448</charCount>
+      <wordCount>428</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="9db0dac0ba9ca" order="131" parent="f5529cd56b43d">
+      <name>132. The Symphony</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>8739</charCount>
+      <wordCount>1611</wordCount>
+      <paraCount>19</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="a343fec40221c" order="132" parent="f5529cd56b43d">
+      <name>133. The Chase, First Day</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>20262</charCount>
+      <wordCount>3537</wordCount>
+      <paraCount>51</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="70a286558e16e" order="133" parent="f5529cd56b43d">
+      <name>134. The Chase, Second Day</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>18504</charCount>
+      <wordCount>3324</wordCount>
+      <paraCount>47</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="f8b59d7e5dd4c" order="134" parent="f5529cd56b43d">
+      <name>135. The Chase, Third Day</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>CHAPTER</layout>
+      <charCount>24954</charCount>
+      <wordCount>4521</wordCount>
+      <paraCount>63</paraCount>
+      <cursorPos>25083</cursorPos>
+    </item>
+    <item handle="a60867e0fcbe5" order="135" parent="f5529cd56b43d">
+      <name>Epilogue</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>Finished</status>
+      <exported>True</exported>
+      <layout>UNNUMBERED</layout>
+      <charCount>1501</charCount>
+      <wordCount>268</wordCount>
+      <paraCount>3</paraCount>
+      <cursorPos>1511</cursorPos>
+    </item>
+    <item handle="53ce7bc6c7ffb" order="3" parent="69dc41b3f1029">
+      <name>License</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>SCENE</layout>
+      <charCount>17015</charCount>
+      <wordCount>2700</wordCount>
+      <paraCount>48</paraCount>
+      <cursorPos>17137</cursorPos>
+    </item>
+    <item handle="9bd31873c0e63" order="1" parent="None">
+      <name>Plot</name>
+      <type>ROOT</type>
+      <class>PLOT</class>
+      <status>New</status>
+      <expanded>False</expanded>
+    </item>
+    <item handle="35fa90a9ec288" order="2" parent="None">
+      <name>Characters</name>
+      <type>ROOT</type>
+      <class>CHARACTER</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+    <item handle="602d39d22a58f" order="0" parent="35fa90a9ec288">
+      <name>Ishmael</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>Main</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>7</charCount>
+      <wordCount>1</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="4d5ebaf45806b" order="3" parent="None">
+      <name>World</name>
+      <type>ROOT</type>
+      <class>WORLD</class>
+      <status>New</status>
+      <expanded>False</expanded>
+    </item>
+    <item handle="1e720afaaa7fe" order="4" parent="None">
+      <name>Trash</name>
+      <type>TRASH</type>
+      <class>TRASH</class>
+      <status>New</status>
+      <expanded>True</expanded>
+    </item>
+  </content>
+</novelWriterXML>
